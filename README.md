@@ -1,2 +1,1 @@
-Guess my number 
-A guessing app
+Guess My Number 
